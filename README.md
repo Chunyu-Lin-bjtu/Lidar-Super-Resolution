@@ -1,2 +1,2 @@
 # Lidar-Super-Resolution
-A Lidar Super-Resolution package.
+Code, model, weights and training data will be uploaded upon publication.
